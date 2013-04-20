@@ -1,0 +1,1 @@
+﻿package  {	import flash.geom.Point;	import flash.display.MovieClip;	import Sprite;		public class bomb extends Sprite {						public function bomb(endPoint:Point) {			// constructor code			super(new Point(0,300));		}	}	}
